@@ -1,19 +1,18 @@
-# Clock-In-Web
+# Clock-In-Server
+## 功能描述
 
-A new Flutter project.
+学生打卡信息的快速统计。
 
-## Getting Started
+## 使用指南
 
-This project is a starting point for a Flutter application.
+点击【修改名单】按钮可以修改打卡名单，修改完之后记得进行保存。
 
-A few resources to get you started if this is your first Flutter project:
+在保存好名单之后即可输入已签到的人员名单，点击【查询】按钮便可得到未签到的人员名单。
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 网页地址
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image-20210221111757216](https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210221111757.png)
 
-## About
-学生打卡统计.
+[点我](http://81.69.7.50/#/)
+
+注：第一次打开可能比较慢，之后便会很快。在打开网页时请选择支持flutter和websocket的浏览器（如谷歌，百度等）。
